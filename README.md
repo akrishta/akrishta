@@ -2,7 +2,7 @@
 
 Expertise in solving real-world business problems, with a passion for fast-paced environments. Have extensive experience in building product, data Science and data Analytics in healthtech space in Germany, Netherlands and India.
 
-👯 I'm interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an [email](sahay.akrishta@gmail.com)!
+👯 I'm interested in collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an [email](sahay.akrishta@gmail.com)!
 
 💬 My personal mission is to build AI-based solutions that solve a high-impact problem for healthcare.
 
