@@ -21,6 +21,7 @@ Expertise in solving real-world business problems, with a passion for fast-paced
 |BioDb2016 | Solutions for Rosalind's problems |[link](https://github.com/akrishta305/BioDb2016-1) | 
 |BioDb2016 | Solutions for Rosalind's problems- notebook |[link](https://github.com/akrishta305/BioDb2016)| 
 |AI in medicine | Coursera - AI for medical diagnosis |[link](https://github.com/akrishta305/ai-for-medical-diagnosis)| 
+|DeepLearning AI | Coursera - Neural Networks and Deep Learning |[link](https://github.com/akrishta/DeepLearning.AI)|
 | <img width=200/>   | <img width=400/>        | <img width=200/>     |
 
 ##### Publications
